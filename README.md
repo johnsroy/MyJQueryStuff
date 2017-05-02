@@ -7,6 +7,7 @@ Two projects to Look at:
 
 A Few interesting WEB DEV projects that are coming up next on my remote Github repo, which I'm going to work on soon:
 1) 2 AJAX projects with PHP(parsing both XML and JSON data formats)
-2) Backend stuff: Node.js and MongoDB
-3) A RESTful API built from scratch
-4) Would be launching my own website as well
+2) A Bootstrap Project
+3) Backend stuff: Node.js and MongoDB
+4) A RESTful API built from scratch
+5) Would be launching my own website as well
